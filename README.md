@@ -1,12 +1,12 @@
 # 💫 About Me:
 👋 **Merhaba, Ben İbrahim!**
 
-Bilgisayar Mühendisi olarak, yapay zeka ve bilgisayarlı görü (Computer Vision) alanlarında uçtan uca çözümler üretmeye odaklanıyorum. Akademik altyapımı, pratik kişisel projelerle birleştirerek gerçek dünya problemlerine akıllı çözümler sunuyorum.
+Bilgisayar Mühendisi olarak, yapay zeka ve görüntü işleme (Computer Vision) alanlarında uçtan uca çözümler üretmeye odaklanıyorum. Akademik altyapımı, pratik kişisel projelerle birleştirerek bazı gerçek dünya problemlerine akıllı çözümler sunuyorum.
 
 ---
 
 ### 🌐 Kişisel Portfolyo & Çalışmalarım
-Tüm projelerimi, teknik makalelerimi ve detaylı özgeçmişimi incelemek için web sitemi ziyaret edebilirsiniz:
+Bazı projelerimi incelemek ve detaylı bilgi için web sitemi ziyaret edebilirsiniz:
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-lasmon.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lasmon.me)
 
@@ -14,12 +14,13 @@ Tüm projelerimi, teknik makalelerimi ve detaylı özgeçmişimi incelemek için
 
 ### 🚀 Öne Çıkan Projelerim
 * **HelmetDetection:** Raspberry Pi 5 üzerinde çalışan, optimize edilmiş derin öğrenme tabanlı gerçek zamanlı kask algılama sistemi.
-* **Banana Quality Analysis:** Mezuniyet tezim kapsamında geliştirdiğim, meyve olgunluk ve hastalık tespiti yapan görüntü işleme projesi.
+* **Banana Quality Analysis:** Mezuniyet tezim kapsamında geliştirdiğim, meyve olgunluk ve hasat tespiti yapan görüntü işleme projesi.
 * **Dizi Takip Sistemi:** Her kullanıcı için izole veritabanı mimarisi, admin paneli ve güvenli giriş sistemine sahip kişisel bir web projesi.
 
 ---
 
 ## 🌐 Socials:
+İletişime geçmek için bu adresleri kullanabilirsiniz:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimyrao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iyalcinridvanagaoglu@gmail.com) 
 
 # 💻 Tech Stack:
