@@ -13,9 +13,11 @@ Bazı projelerimi incelemek ve detaylı bilgi için web sitemi ziyaret edebilirs
 ---
 
 ### 🚀 Öne Çıkan Projelerim
-* **HelmetDetection:** Raspberry Pi 5 üzerinde çalışan, optimize edilmiş derin öğrenme tabanlı gerçek zamanlı kask algılama sistemi.
-* **Banana Quality Analysis:** Mezuniyet tezim kapsamında geliştirdiğim, meyve olgunluk ve hasat tespiti yapan görüntü işleme projesi.
-* **Dizi Takip Sistemi:** Her kullanıcı için izole veritabanı mimarisi, admin paneli ve güvenli giriş sistemine sahip kişisel bir web projesi.
+
+*   **[dizi-takip](https://github.com/ibrahimyrao/dizi-takip):** Django tabanlı, glassmorphism tasarımlı ve GSAP animasyonlarıyla güçlendirilmiş gelişmiş dizi takip platformu.
+*   **[helmetdetection](https://github.com/ibrahimyrao/helmetdetection):** Raspberry Pi 5 için optimize edilmiş, YOLOv8 derin öğrenme mimarisine sahip gerçek zamanlı baret/kask kullanım denetimi yapan yapay zeka sistemi.
+*   **[abonelik-takip](https://github.com/ibrahimyrao/abonelik-takip):** Dockerize edilmiş Django mimarisiyle çalışan, kategorize edilmiş kişisel abonelik gider takip sistemi.
+*   **[graduation_thesis_banana](https://github.com/ibrahimyrao/graduation_thesis_banana):** Mezuniyet tezim kapsamında geliştirdiğim, görüntü işleme ve yapay zeka yöntemleriyle muzların olgunluk düzeylerini ve hasat zamanlarını analiz eden akademik çalışma.
 
 ---
 
